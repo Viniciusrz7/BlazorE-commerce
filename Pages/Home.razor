@@ -1,0 +1,20 @@
+﻿@page "/"
+@using BlazorE_commerce.Componentes
+
+<Menu>
+    <MenuItem Caminho="/Roupas/Masculinas" Titulo="Masculinas" />
+    <MenuItem Caminho="/Roupas/Femininas" Titulo="Femininas" />
+</Menu>
+<Corpo/>
+<Rodape/>
+
+@code{
+    [Parameter]
+    public RenderFragment? ChildContent { get; set; }
+    private bool aberto = false;
+
+    private void TrocarEstado()
+    {
+        aberto = !aberto;
+    }
+}

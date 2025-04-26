@@ -1,0 +1,60 @@
+﻿@page "/Login"
+@inject NavigationManager NavigationManager
+<div class="w-full h-screen flex items-center justify-center bg-gray-100">
+    <div class="w-full max-w-xs bg-white rounded-lg shadow-lg p-5 flex flex-col items-center justify-center">
+        <h2 class="text-center text-2xl font-bold mb-5">Bem-vindo</h2>
+
+        <EditForm Model="@usuario" OnValidSubmit="LidarLogin" class="w-full">
+            <DataAnnotationsValidator />
+            <ValidationSummary />
+
+            <div class="mb-4">
+                <label class="block text-gray-700" for="username">Usuário</label>
+                <InputText class="border-b-2 border-indigo-500 outline-none focus:bg-gray-300 w-full" 
+                           id="username" @bind-Value="usuario.Nome" placeholder="Digite seu usuário" />
+            </div>
+            <div class="mb-4">
+                <label class="block text-gray-700" for="password">Senha</label>
+                <InputText class="border-b-2 border-indigo-500 outline-none focus:bg-gray-300 w-full" 
+                           id="password" type="password" @bind-Value="usuario.Senha" placeholder="Digite sua senha" />
+            </div>
+            <button class="w-full bg-indigo-500 text-white py-2 rounded hover:bg-indigo-600 cursor-pointer" type="submit">Entrar</button>
+        </EditForm>
+
+        @if (!string.IsNullOrEmpty(mensagemErro))
+        {
+            <div class="text-red-500 mt-2">@mensagemErro</div>
+        }
+
+        <footer class="mt-5 text-center w-full">
+            <a class="text-sm text-indigo-500 hover:underline" href="/RecuperarSenha">Esqueceu a senha?</a>
+            <br>
+            <a class="text-sm text-indigo-500 hover:underline" href="/">Voltar para a Pagina Principal</a>
+        </footer>
+    </div>
+</div>
+
+@code {
+    private Usuario usuario = new Usuario();
+    private string? mensagemErro;
+
+    private void LidarLogin()
+    {
+        if (usuario.Nome == "usuario" && usuario.Senha == "senha123")
+        {
+            // Rederecionando
+            NavigationManager.NavigateTo("/Carrinho");
+            mensagemErro = null;
+        }
+        else
+        {
+            mensagemErro = "Usuário ou senha inválidos.";
+        }
+    }
+
+    public class Usuario
+    {
+        public string Nome { get; set; } = string.Empty;
+        public string Senha { get; set; } = string.Empty;
+    }
+}

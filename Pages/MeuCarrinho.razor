@@ -1,0 +1,77 @@
+﻿@page "/Carrinho"
+
+<PageTitle>Carrinho de Compras</PageTitle>
+
+<div class="container mx-auto p-4">
+    <h1 class="text-3xl font-bold mb-6">Seu Carrinho</h1>
+
+    <div class="bg-white shadow-md rounded-lg p-6">
+        <table class="min-w-full">
+            <thead>
+                <tr class="bg-gray-200">
+                    <th class="py-2 text-left">Produto</th>
+                    <th class="py-2 text-left">Quantidade</th>
+                    <th class="py-2 text-left">Preço</th>
+                    <th class="py-2 text-left">Total</th>
+                    <th class="py-2 text-left">Ação</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in ItensCarrinho)
+                {
+                    <tr>
+                        <td class="py-2">@item.Nome</td>
+                        <td class="py-2">
+                            <input type="number" value="@item.Quantidade" class="border rounded w-16 text-center" min="1"
+                                @onchange="(e) => AtualizarQuantidade(item, e)" />
+                        </td>
+                        <td class="py-2">R$ @item.Preco</td>
+                        <td class="py-2">R$ @(item.Preco* item.Quantidade)</td>
+                        <td class="py-2">
+                            <button class="text-red-500 hover:text-red-700"
+                                @onclick="() => RemoverItem(item)">Remover</button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <div class="mt-4 flex justify-between">
+            <h2 class="text-xl font-semibold">Total: R$ @Total.ToString("F2")</h2>
+            <button class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 cursor-pointer">Finalizar
+                Compra</button>
+        </div>
+    </div>
+</div>
+<BlazorE_commerce.Componentes.Voltarpaginainicial/>
+
+@code {
+    public class ItemCarrinho
+    {
+        public string Nome { get; set; } = string.Empty;
+        public decimal Preco { get; set; }
+        public int Quantidade { get; set; }
+    }
+
+    private List<ItemCarrinho> ItensCarrinho = new List<ItemCarrinho>
+    {
+    new ItemCarrinho { Nome = "Camiseta Exemplo", Preco = 49.90m, Quantidade = 1 },
+    new ItemCarrinho { Nome = "Calça Exemplo", Preco = 89.90m, Quantidade = 1 }
+    };
+
+    private decimal Total => ItensCarrinho.Sum(item => item.Preco * item.Quantidade);
+
+    private void RemoverItem(ItemCarrinho item)
+    {
+        ItensCarrinho.Remove(item);
+    }
+
+    private void AtualizarQuantidade(ItemCarrinho item, ChangeEventArgs e)
+    {
+        if (int.TryParse(e.Value?.ToString(), out int quantidade) && quantidade >= 1)
+        {
+            item.Quantidade = quantidade;
+        }
+
+    }
+}
