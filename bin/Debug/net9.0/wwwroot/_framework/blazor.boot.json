@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlazorE-commerce",
   "resources": {
-    "hash": "sha256-n4y0hwEy3bRzGhvmAagV7RED/enfZQFgQmxRLLh1u60=",
+    "hash": "sha256-JEj5FNjMWdSQM0pi5UolG0SbGoyyOI28D5vT7+K3TWg=",
     "jsModuleNative": {
       "dotnet.native.9.0.0-preview.6.24327.7.21ecrpm03v.js": "sha256-Cg4nJy8Efi+LG+8m+jW1mCD9+WS/QwG2uzHd6Srpkm0="
     },
@@ -210,10 +210,10 @@
       "WindowsBase.wasm": "sha256-iHjVyCpOEf9d8dj1vp1esr1y2YVeytRVuiEFJwlEGZ8=",
       "mscorlib.wasm": "sha256-1tf5F2KuysDBtZESZUwQIFIsKSnH+ojBKeNgimK1VJo=",
       "netstandard.wasm": "sha256-ufCtWVU9pvap17XqbSElHWEo1855w4rIUv9+8f9JF40=",
-      "BlazorE-commerce.wasm": "sha256-scazBEZ8hQRKrLYQPm6vEEX6iyWORFO/wpGHbjslGzA="
+      "BlazorE-commerce.wasm": "sha256-6vOhprqJIkJIEbGSFgy2vJfgyQoh7oXERlMMoz/EFxU="
     },
     "pdb": {
-      "BlazorE-commerce.pdb": "sha256-c6Q/xvxdrXH3jMvHOXTZUnRPXGtbBaiHU3LFBSj3GI0="
+      "BlazorE-commerce.pdb": "sha256-uhvX8lRqLymjcpUIYAoF0a0vtlLsM2QLL1gbnmCKKNQ="
     }
   },
   "cacheBootResources": true,

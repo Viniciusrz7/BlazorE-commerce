@@ -5,24 +5,30 @@
     <div class="container mx-auto flex flex-col md:flex-row justify-between items-center">
         <div class="flex items-center mb-4 md:mb-0">
             <a href="https://wa.me/5532988714960" class="flex items-center text-green-400 hover:text-green-300">
-                <i class="fab fa-whatsapp text-xl w-3 mr-2 "></i> 
+                <i class="fab fa-whatsapp text-xl w-3 mr-2 "></i>
                 <span class="text-sm">Contato via WhatsApp: 32 98871-4960</span>
             </a>
         </div>
         <div class="flex flex-col md:flex-row">
-            @if(!NavManager.Uri.Contains("/Politicadeprivacidade", StringComparison.OrdinalIgnoreCase)){
-            <a href="/Politicadeprivacidade" class="text-gray-400 hover:text-gray-300 mx-2">Política de Privacidade</a>
+            @if (!NavManager.Uri.Contains("/Politicadeprivacidade", StringComparison.OrdinalIgnoreCase))
+            {
+                <a href="/Politicadeprivacidade" class="text-gray-400 hover:text-gray-300 mx-2">Política de Privacidade</a>
             }
-            @if(!NavManager.Uri.Contains("/TermoseCondicoes", StringComparison.OrdinalIgnoreCase)){
-            <a href="/TermoseCondicoes" class="text-gray-400 hover:text-gray-300 mx-2">Termos e Condições</a>
+            @if (!NavManager.Uri.Contains("/TermoseCondicoes", StringComparison.OrdinalIgnoreCase))
+            {
+                <a href="/TermoseCondicoes" class="text-gray-400 hover:text-gray-300 mx-2">Termos e Condições</a>
             }
-            @if(!NavManager.Uri.Contains("/Devolucoes", StringComparison.OrdinalIgnoreCase)){
-            <a href="/Devolucoes" class="text-gray-400 hover:text-gray-300 mx-2">Devoluções</a>
+            @if (!NavManager.Uri.Contains("/Devolucoes", StringComparison.OrdinalIgnoreCase))
+            {
+                <a href="/Devolucoes" class="text-gray-400 hover:text-gray-300 mx-2">Devoluções</a>
             }
         </div>
     </div>
     <div class="text-center mt-4">
         <p class="text-sm">© 2025 E-Commerce. Todos os direitos reservados.</p>
     </div>
-    <BlazorE_commerce.Componentes.Voltarpaginainicial/>
+    @if (NavManager.Uri != "/" && !NavManager.Uri.EndsWith("/"))
+    {
+        <BlazorE_commerce.Componentes.Voltarpaginainicial />
+    }
 </footer>

@@ -1034,6 +1034,7 @@ C:\Users\VINIR\Downloads\E-commerce_Blazor\BlazorE-commerce\obj\Debug\net9.0\com
 C:\Users\VINIR\Downloads\E-commerce_Blazor\BlazorE-commerce\obj\Debug\net9.0\compressed\cfzk8q1s5k-gd9hdgeg3h.gz
 C:\Users\VINIR\Downloads\E-commerce_Blazor\BlazorE-commerce\obj\Debug\net9.0\compressed\kixgrdeir3-aakmgtwefz.gz
 C:\Users\VINIR\Downloads\E-commerce_Blazor\BlazorE-commerce\obj\Debug\net9.0\compressed\owkppdzutq-l1en0fqofa.gz
-C:\Users\VINIR\Downloads\E-commerce_Blazor\BlazorE-commerce\obj\Debug\net9.0\compressed\rfxkszq592-9e7951rr3y.gz
-C:\Users\VINIR\Downloads\E-commerce_Blazor\BlazorE-commerce\obj\Debug\net9.0\compressed\4htuqorfgz-5ygzvjfed3.gz
-C:\Users\VINIR\Downloads\E-commerce_Blazor\BlazorE-commerce\obj\Debug\net9.0\compressed\f9pm3afa6g-6uxtu6spvj.gz
+C:\Users\VINIR\Downloads\E-commerce_Blazor\BlazorE-commerce\obj\Debug\net9.0\BlazorE-commerce.sourcelink.json
+C:\Users\VINIR\Downloads\E-commerce_Blazor\BlazorE-commerce\obj\Debug\net9.0\compressed\rfxkszq592-iafyy8nyah.gz
+C:\Users\VINIR\Downloads\E-commerce_Blazor\BlazorE-commerce\obj\Debug\net9.0\compressed\4htuqorfgz-um9yb137fj.gz
+C:\Users\VINIR\Downloads\E-commerce_Blazor\BlazorE-commerce\obj\Debug\net9.0\compressed\f9pm3afa6g-860s9wyacf.gz
