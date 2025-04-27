@@ -35,6 +35,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50ZXNcQ29ycG8ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/VINIR/Downloads/E-commerce_Blazor/BlazorE-commerce/Componentes/EnderecodeEntrega.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50ZXNcRW5kZXJlY29kZUVudHJlZ2EucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/VINIR/Downloads/E-commerce_Blazor/BlazorE-commerce/Componentes/Menu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50ZXNcTWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
