@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IM84G6g71iSnRvQtZQEZrEuQ8vx6FmLFR5i2Z/v2zt0=",
+  "Hash": "YaICJ4dXxRzA3aL8/igkD8Fc9YajidRgAPL/GLom4I0=",
   "Source": "BlazorE-commerce",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "3eny4rmnmn",
-      "Integrity": "65pzV2T0+3Iy2kGimr7XOW9+B3vbVuHyAispnMDpaz8=",
+      "Fingerprint": "czdu2yqihk",
+      "Integrity": "uDMUjn8Zm5CGeManiFXb+xGsdi8a4J/xnF8rQkYAXgU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "9lr5faitpj",
-      "Integrity": "7VEQ2orD9WJiPDjJVr64NGFoqnTrUe3jpkfeBO0T8co=",
+      "Fingerprint": "0x2yjzz5el",
+      "Integrity": "vO2zqGLXQG6YpPRquV5tbdJ9Ws+e0GBHcaNRNlMbXf8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\BlazorE-commerce.pdb"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "qdny3ou9l4",
-      "Integrity": "IvKhwpzKwLitdluBUT7ZEZr1ItGjTCZs0D5YxKTN5yY=",
+      "Fingerprint": "d1jwfwb2aq",
+      "Integrity": "n7ifhlO22tWBlAQMzR84Ibn9TbVBqyUJwPVAr1/Vbkc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\webcil\\BlazorE-commerce.wasm"
@@ -4721,7 +4721,7 @@
       "OriginalItemSpec": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Net.wasm"
     },
     {
-      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\4htuqorfgz-9lr5faitpj.gz",
+      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\4htuqorfgz-0x2yjzz5el.gz",
       "SourceId": "BlazorE-commerce",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\",
@@ -4735,8 +4735,8 @@
       "RelatedAsset": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorE-commerce.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "r4w7hojfh5",
-      "Integrity": "a58B2ZwX8u0oPe+dJ/vurfNPAhiTxAFYN/A6qfUL/Zg=",
+      "Fingerprint": "7jalwgo9r4",
+      "Integrity": "k0jSpQIEwNZCWTejVsbqLsyIKIqeot5E36Hjcz20iVM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorE-commerce.pdb"
@@ -6023,7 +6023,7 @@
       "OriginalItemSpec": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Threading.Overlapped.wasm"
     },
     {
-      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\f9pm3afa6g-3eny4rmnmn.gz",
+      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\f9pm3afa6g-czdu2yqihk.gz",
       "SourceId": "BlazorE-commerce",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\",
@@ -6037,8 +6037,8 @@
       "RelatedAsset": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "3nz610xcbk",
-      "Integrity": "76rlKMfbd99B4Fo3oNc0kvmzkfKjD5LyS9IBJjsm5i0=",
+      "Fingerprint": "fj43zd12hb",
+      "Integrity": "Rd+ZfpzuV+/JApOd5udmA3XnC49Y7U9IT1Rtvbr/bPc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -7535,7 +7535,7 @@
       "OriginalItemSpec": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Security.Cryptography.X509Certificates.wasm"
     },
     {
-      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\rfxkszq592-qdny3ou9l4.gz",
+      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\rfxkszq592-d1jwfwb2aq.gz",
       "SourceId": "BlazorE-commerce",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\",
@@ -7549,8 +7549,8 @@
       "RelatedAsset": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorE-commerce.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "wdg3ve04e2",
-      "Integrity": "tOwwoSLNUqMnTmt3uGKvQYrYeQBZpIMq5NFOpgPveHM=",
+      "Fingerprint": "jqmtvitr54",
+      "Integrity": "pVB2qwSeioasBg+a9JHmu4MTeOxZOaVy1ZjkixRh3pw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorE-commerce.wasm"
@@ -8857,11 +8857,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"65pzV2T0+3Iy2kGimr7XOW9+B3vbVuHyAispnMDpaz8=\""
+          "Value": "\"uDMUjn8Zm5CGeManiFXb+xGsdi8a4J/xnF8rQkYAXgU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 00:57:58 GMT"
+          "Value": "Sun, 27 Apr 2025 23:59:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8871,18 +8871,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-65pzV2T0+3Iy2kGimr7XOW9+B3vbVuHyAispnMDpaz8="
+          "Value": "sha256-uDMUjn8Zm5CGeManiFXb+xGsdi8a4J/xnF8rQkYAXgU="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\f9pm3afa6g-3eny4rmnmn.gz",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\f9pm3afa6g-czdu2yqihk.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,000113623452"
+          "Quality": "0,000113726828"
         }
       ],
       "ResponseHeaders": [
@@ -8892,15 +8892,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8800"
+          "Value": "8792"
         },
         {
           "Name": "ETag",
-          "Value": "\"76rlKMfbd99B4Fo3oNc0kvmzkfKjD5LyS9IBJjsm5i0=\""
+          "Value": "\"Rd+ZfpzuV+/JApOd5udmA3XnC49Y7U9IT1Rtvbr/bPc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 00:56:47 GMT"
+          "Value": "Sun, 27 Apr 2025 23:59:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8920,19 +8920,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"65pzV2T0+3Iy2kGimr7XOW9+B3vbVuHyAispnMDpaz8=\""
+          "Value": "W/\"uDMUjn8Zm5CGeManiFXb+xGsdi8a4J/xnF8rQkYAXgU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-65pzV2T0+3Iy2kGimr7XOW9+B3vbVuHyAispnMDpaz8="
+          "Value": "sha256-uDMUjn8Zm5CGeManiFXb+xGsdi8a4J/xnF8rQkYAXgU="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\f9pm3afa6g-3eny4rmnmn.gz",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\f9pm3afa6g-czdu2yqihk.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8941,7 +8941,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8800"
+          "Value": "8792"
         },
         {
           "Name": "Content-Type",
@@ -8949,11 +8949,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"76rlKMfbd99B4Fo3oNc0kvmzkfKjD5LyS9IBJjsm5i0=\""
+          "Value": "\"Rd+ZfpzuV+/JApOd5udmA3XnC49Y7U9IT1Rtvbr/bPc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 00:56:47 GMT"
+          "Value": "Sun, 27 Apr 2025 23:59:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8971,7 +8971,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-76rlKMfbd99B4Fo3oNc0kvmzkfKjD5LyS9IBJjsm5i0="
+          "Value": "sha256-Rd+ZfpzuV+/JApOd5udmA3XnC49Y7U9IT1Rtvbr/bPc="
         }
       ]
     },
@@ -9123,7 +9123,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "49880"
+          "Value": "49844"
         },
         {
           "Name": "Content-Type",
@@ -9131,11 +9131,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7VEQ2orD9WJiPDjJVr64NGFoqnTrUe3jpkfeBO0T8co=\""
+          "Value": "\"vO2zqGLXQG6YpPRquV5tbdJ9Ws+e0GBHcaNRNlMbXf8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 00:57:57 GMT"
+          "Value": "Sun, 27 Apr 2025 23:59:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9145,18 +9145,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7VEQ2orD9WJiPDjJVr64NGFoqnTrUe3jpkfeBO0T8co="
+          "Value": "sha256-vO2zqGLXQG6YpPRquV5tbdJ9Ws+e0GBHcaNRNlMbXf8="
         }
       ]
     },
     {
       "Route": "_framework/BlazorE-commerce.pdb",
-      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\4htuqorfgz-9lr5faitpj.gz",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\4htuqorfgz-0x2yjzz5el.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,000024141760"
+          "Quality": "0,000024138847"
         }
       ],
       "ResponseHeaders": [
@@ -9166,15 +9166,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "41421"
+          "Value": "41426"
         },
         {
           "Name": "ETag",
-          "Value": "\"a58B2ZwX8u0oPe+dJ/vurfNPAhiTxAFYN/A6qfUL/Zg=\""
+          "Value": "\"k0jSpQIEwNZCWTejVsbqLsyIKIqeot5E36Hjcz20iVM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 00:56:44 GMT"
+          "Value": "Sun, 27 Apr 2025 23:59:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9194,19 +9194,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"7VEQ2orD9WJiPDjJVr64NGFoqnTrUe3jpkfeBO0T8co=\""
+          "Value": "W/\"vO2zqGLXQG6YpPRquV5tbdJ9Ws+e0GBHcaNRNlMbXf8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7VEQ2orD9WJiPDjJVr64NGFoqnTrUe3jpkfeBO0T8co="
+          "Value": "sha256-vO2zqGLXQG6YpPRquV5tbdJ9Ws+e0GBHcaNRNlMbXf8="
         }
       ]
     },
     {
       "Route": "_framework/BlazorE-commerce.pdb.gz",
-      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\4htuqorfgz-9lr5faitpj.gz",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\4htuqorfgz-0x2yjzz5el.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9215,7 +9215,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "41421"
+          "Value": "41426"
         },
         {
           "Name": "Content-Type",
@@ -9223,11 +9223,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"a58B2ZwX8u0oPe+dJ/vurfNPAhiTxAFYN/A6qfUL/Zg=\""
+          "Value": "\"k0jSpQIEwNZCWTejVsbqLsyIKIqeot5E36Hjcz20iVM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 00:56:44 GMT"
+          "Value": "Sun, 27 Apr 2025 23:59:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9245,7 +9245,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-a58B2ZwX8u0oPe+dJ/vurfNPAhiTxAFYN/A6qfUL/Zg="
+          "Value": "sha256-k0jSpQIEwNZCWTejVsbqLsyIKIqeot5E36Hjcz20iVM="
         }
       ]
     },
@@ -9268,11 +9268,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IvKhwpzKwLitdluBUT7ZEZr1ItGjTCZs0D5YxKTN5yY=\""
+          "Value": "\"n7ifhlO22tWBlAQMzR84Ibn9TbVBqyUJwPVAr1/Vbkc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 00:57:57 GMT"
+          "Value": "Sun, 27 Apr 2025 23:59:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9282,18 +9282,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-IvKhwpzKwLitdluBUT7ZEZr1ItGjTCZs0D5YxKTN5yY="
+          "Value": "sha256-n7ifhlO22tWBlAQMzR84Ibn9TbVBqyUJwPVAr1/Vbkc="
         }
       ]
     },
     {
       "Route": "_framework/BlazorE-commerce.wasm",
-      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\rfxkszq592-qdny3ou9l4.gz",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\rfxkszq592-d1jwfwb2aq.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,000052446636"
+          "Quality": "0,000052399916"
         }
       ],
       "ResponseHeaders": [
@@ -9303,15 +9303,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19066"
+          "Value": "19083"
         },
         {
           "Name": "ETag",
-          "Value": "\"tOwwoSLNUqMnTmt3uGKvQYrYeQBZpIMq5NFOpgPveHM=\""
+          "Value": "\"pVB2qwSeioasBg+a9JHmu4MTeOxZOaVy1ZjkixRh3pw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 00:56:44 GMT"
+          "Value": "Sun, 27 Apr 2025 23:59:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9331,19 +9331,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"IvKhwpzKwLitdluBUT7ZEZr1ItGjTCZs0D5YxKTN5yY=\""
+          "Value": "W/\"n7ifhlO22tWBlAQMzR84Ibn9TbVBqyUJwPVAr1/Vbkc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-IvKhwpzKwLitdluBUT7ZEZr1ItGjTCZs0D5YxKTN5yY="
+          "Value": "sha256-n7ifhlO22tWBlAQMzR84Ibn9TbVBqyUJwPVAr1/Vbkc="
         }
       ]
     },
     {
       "Route": "_framework/BlazorE-commerce.wasm.gz",
-      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\rfxkszq592-qdny3ou9l4.gz",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\rfxkszq592-d1jwfwb2aq.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9352,7 +9352,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19066"
+          "Value": "19083"
         },
         {
           "Name": "Content-Type",
@@ -9360,11 +9360,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tOwwoSLNUqMnTmt3uGKvQYrYeQBZpIMq5NFOpgPveHM=\""
+          "Value": "\"pVB2qwSeioasBg+a9JHmu4MTeOxZOaVy1ZjkixRh3pw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 00:56:44 GMT"
+          "Value": "Sun, 27 Apr 2025 23:59:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9382,7 +9382,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-tOwwoSLNUqMnTmt3uGKvQYrYeQBZpIMq5NFOpgPveHM="
+          "Value": "sha256-pVB2qwSeioasBg+a9JHmu4MTeOxZOaVy1ZjkixRh3pw="
         }
       ]
     },
