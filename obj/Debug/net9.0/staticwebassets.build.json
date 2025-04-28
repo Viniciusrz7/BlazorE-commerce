@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YaICJ4dXxRzA3aL8/igkD8Fc9YajidRgAPL/GLom4I0=",
+  "Hash": "b/CyfKvXRQnSevsVSRaVILTRoXOGEHG8VjEChowWnNc=",
   "Source": "BlazorE-commerce",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "czdu2yqihk",
-      "Integrity": "uDMUjn8Zm5CGeManiFXb+xGsdi8a4J/xnF8rQkYAXgU=",
+      "Fingerprint": "c6a90p8lwy",
+      "Integrity": "xF/sxDfcF2d5CO7hPY6x/hOatfCBFD2eVyD98aCIcT8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "0x2yjzz5el",
-      "Integrity": "vO2zqGLXQG6YpPRquV5tbdJ9Ws+e0GBHcaNRNlMbXf8=",
+      "Fingerprint": "1psis3h1sr",
+      "Integrity": "xTkRqQ7ejfQXSw6Ax2pr1NkYI6qqXY9v09xjftig5uU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\BlazorE-commerce.pdb"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "d1jwfwb2aq",
-      "Integrity": "n7ifhlO22tWBlAQMzR84Ibn9TbVBqyUJwPVAr1/Vbkc=",
+      "Fingerprint": "9zvy17rfqa",
+      "Integrity": "m5ykuGbWZxzmw/q53DAP3m+UpwAjKcqmVNaKhgc1ZPE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\webcil\\BlazorE-commerce.wasm"
@@ -4721,7 +4721,7 @@
       "OriginalItemSpec": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Net.wasm"
     },
     {
-      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\4htuqorfgz-0x2yjzz5el.gz",
+      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\4htuqorfgz-1psis3h1sr.gz",
       "SourceId": "BlazorE-commerce",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\",
@@ -4735,8 +4735,8 @@
       "RelatedAsset": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorE-commerce.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "7jalwgo9r4",
-      "Integrity": "k0jSpQIEwNZCWTejVsbqLsyIKIqeot5E36Hjcz20iVM=",
+      "Fingerprint": "tzjgrngrvm",
+      "Integrity": "x7/ylYi825TbLe13XMR8OXXFtvJ+EMEADMFVntBFgNg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorE-commerce.pdb"
@@ -6023,7 +6023,7 @@
       "OriginalItemSpec": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Threading.Overlapped.wasm"
     },
     {
-      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\f9pm3afa6g-czdu2yqihk.gz",
+      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\f9pm3afa6g-c6a90p8lwy.gz",
       "SourceId": "BlazorE-commerce",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\",
@@ -6037,8 +6037,8 @@
       "RelatedAsset": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "fj43zd12hb",
-      "Integrity": "Rd+ZfpzuV+/JApOd5udmA3XnC49Y7U9IT1Rtvbr/bPc=",
+      "Fingerprint": "lbqqtg3sgx",
+      "Integrity": "wbQEK78D+a944ywrV/y4BjeJv67klLbKSvloe+xahII=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -7535,7 +7535,7 @@
       "OriginalItemSpec": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Security.Cryptography.X509Certificates.wasm"
     },
     {
-      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\rfxkszq592-d1jwfwb2aq.gz",
+      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\rfxkszq592-9zvy17rfqa.gz",
       "SourceId": "BlazorE-commerce",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\",
@@ -7549,8 +7549,8 @@
       "RelatedAsset": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorE-commerce.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "jqmtvitr54",
-      "Integrity": "pVB2qwSeioasBg+a9JHmu4MTeOxZOaVy1ZjkixRh3pw=",
+      "Fingerprint": "waylvw9mft",
+      "Integrity": "6K8yClGdEAdjKCtRMPcGthPJQnX5m8ZIWMjyB1PYCos=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorE-commerce.wasm"
@@ -8795,6 +8795,426 @@
       "OriginalItemSpec": "wwwroot\\icon-192.png"
     },
     {
+      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\calçanike1.jpeg",
+      "SourceId": "BlazorE-commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "imagens/calçanike1#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o89772i0nm",
+      "Integrity": "iPl7CoiApuAxO5hYZb4ZBupn9hP2w2GWHzpLmRdOv8A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\calçanike1.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\calçanike2.jpeg",
+      "SourceId": "BlazorE-commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "imagens/calçanike2#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4u2pncvmmt",
+      "Integrity": "ZI7KEg//M2+TKZxG4CvFJBQkIXQq6KeAiKYcASKf+Wk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\calçanike2.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\calçanike3.jpeg",
+      "SourceId": "BlazorE-commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "imagens/calçanike3#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uha7hp9wtt",
+      "Integrity": "Hor8EaUHtqiAXqFwEfUlTM3pTQPL2r9RgqoT30mCK1s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\calçanike3.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\calçanike4.jpeg",
+      "SourceId": "BlazorE-commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "imagens/calçanike4#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6ferjnmhdx",
+      "Integrity": "Pi9CSgIovkfN+RrCzZUs4q+7H3SJW/a4D3ovTGvwLVA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\calçanike4.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\Camisa_feminina1.jpeg",
+      "SourceId": "BlazorE-commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "imagens/Camisa_feminina1#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0k7h2j2kce",
+      "Integrity": "gM4I7uN+52ogPjeQlHKpEF53T1oCVddJMRJ+HTZaajs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\Camisa_feminina1.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\camisa_feminina2.jpeg",
+      "SourceId": "BlazorE-commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "imagens/camisa_feminina2#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xc1yftape4",
+      "Integrity": "YR7GEDLT+W4FrE3uurscCPxHXgEn+kL7sVR5S/5NCiY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\camisa_feminina2.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\camisa1.jpeg",
+      "SourceId": "BlazorE-commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "imagens/camisa1#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g6fiv8sm2u",
+      "Integrity": "qAMKgdF24vjF6JGKfgA89NvcNCj6pdditKIbGgv1gVI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\camisa1.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\camisa2.jpeg",
+      "SourceId": "BlazorE-commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "imagens/camisa2#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f9b5xkq4pc",
+      "Integrity": "Q/mvn1u9uYtRIYmKgdKLNf7GnExDBWB+6FXjbalnOkc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\camisa2.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\camisa3.jpg",
+      "SourceId": "BlazorE-commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "imagens/camisa3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v36zpr9c4i",
+      "Integrity": "VWFoUB+haq2orSF3jNRn9KY0RLf5ybHq+591FeZYZF4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\camisa3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\CARRINHO.jpeg",
+      "SourceId": "BlazorE-commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "imagens/CARRINHO#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qb0g8fz50d",
+      "Integrity": "WoYdzHXh6t2PKMRe0dULTGkkuaGDeoU9yJqGoAU2Xw0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\CARRINHO.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\cart.png",
+      "SourceId": "BlazorE-commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "imagens/cart#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "flmuj7x3ar",
+      "Integrity": "HfPGvUqKwRrh7gVfDS0tuzP3PBS7AYcz/bKafRiqVQI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\cart.png"
+    },
+    {
+      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\conjunstosnike3.jpeg",
+      "SourceId": "BlazorE-commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "imagens/conjunstosnike3#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l0apwjxrhz",
+      "Integrity": "C+XQeQkQNZv2zAJoQacL/VrBfLXracycyOhgiITBmo8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\conjunstosnike3.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\conjuntosnike1.jpeg",
+      "SourceId": "BlazorE-commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "imagens/conjuntosnike1#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1iagrmjtwr",
+      "Integrity": "KRyxT1YKFgUtCh/GLa59cGqvYqwLEyOwQ2a8C7L0/6Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\conjuntosnike1.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\conjuntosnike2.jpeg",
+      "SourceId": "BlazorE-commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "imagens/conjuntosnike2#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i3hfijj0eq",
+      "Integrity": "sk2Zt58t9I7U16o0qDW3j0ENXzA7NDXMpOeNLbl9h0o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\conjuntosnike2.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\conjuntosnike4.jpeg",
+      "SourceId": "BlazorE-commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "imagens/conjuntosnike4#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dmoiiewp83",
+      "Integrity": "2yh2xIbBKbyqkGRUpML9LZYQFBZsWS9YnqdjcQpO2dk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\conjuntosnike4.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\imagemdefundo.jpeg",
+      "SourceId": "BlazorE-commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "imagens/imagemdefundo#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "juhsacgevz",
+      "Integrity": "W8PnIu12xhNvfnhFaLu9GkkxEsds/az+Ju/RQpFC8co=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\imagemdefundo.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\logo.png",
+      "SourceId": "BlazorE-commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "imagens/logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "auyvyijh05",
+      "Integrity": "3uPdTxpJ33Tl3mHrhJ9OIavu7NcS0TmwDyKycGS9l3o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\passarpagina.png",
+      "SourceId": "BlazorE-commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "imagens/passarpagina#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pftoens41q",
+      "Integrity": "+worP2RjCYq1NBcSK9LOC2Az31J+jgfTuvkJNkxYrGA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\passarpagina.png"
+    },
+    {
+      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\passarpagina2.png",
+      "SourceId": "BlazorE-commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "imagens/passarpagina2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j6s7y5p7m6",
+      "Integrity": "lY+zBf8gE/zH6hB4J3vxCoouMxYxoPS6+4InSHxQuLA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\passarpagina2.png"
+    },
+    {
+      "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\passarpagina3.png",
+      "SourceId": "BlazorE-commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "imagens/passarpagina3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gmk9c4w4dj",
+      "Integrity": "qOwYNvEr2KBo3/o0Yn3HcZlkHh3ubdfwyyQZKUWvGIM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\passarpagina3.png"
+    },
+    {
       "Identity": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\index.html",
       "SourceId": "BlazorE-commerce",
       "SourceType": "Discovered",
@@ -8857,11 +9277,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uDMUjn8Zm5CGeManiFXb+xGsdi8a4J/xnF8rQkYAXgU=\""
+          "Value": "\"xF/sxDfcF2d5CO7hPY6x/hOatfCBFD2eVyD98aCIcT8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 23:59:42 GMT"
+          "Value": "Mon, 28 Apr 2025 00:39:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8871,18 +9291,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-uDMUjn8Zm5CGeManiFXb+xGsdi8a4J/xnF8rQkYAXgU="
+          "Value": "sha256-xF/sxDfcF2d5CO7hPY6x/hOatfCBFD2eVyD98aCIcT8="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\f9pm3afa6g-czdu2yqihk.gz",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\f9pm3afa6g-c6a90p8lwy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,000113726828"
+          "Quality": "0,000113662196"
         }
       ],
       "ResponseHeaders": [
@@ -8892,15 +9312,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8792"
+          "Value": "8797"
         },
         {
           "Name": "ETag",
-          "Value": "\"Rd+ZfpzuV+/JApOd5udmA3XnC49Y7U9IT1Rtvbr/bPc=\""
+          "Value": "\"wbQEK78D+a944ywrV/y4BjeJv67klLbKSvloe+xahII=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 23:59:05 GMT"
+          "Value": "Mon, 28 Apr 2025 00:36:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8920,19 +9340,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"uDMUjn8Zm5CGeManiFXb+xGsdi8a4J/xnF8rQkYAXgU=\""
+          "Value": "W/\"xF/sxDfcF2d5CO7hPY6x/hOatfCBFD2eVyD98aCIcT8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-uDMUjn8Zm5CGeManiFXb+xGsdi8a4J/xnF8rQkYAXgU="
+          "Value": "sha256-xF/sxDfcF2d5CO7hPY6x/hOatfCBFD2eVyD98aCIcT8="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\f9pm3afa6g-czdu2yqihk.gz",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\f9pm3afa6g-c6a90p8lwy.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8941,7 +9361,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8792"
+          "Value": "8797"
         },
         {
           "Name": "Content-Type",
@@ -8949,11 +9369,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Rd+ZfpzuV+/JApOd5udmA3XnC49Y7U9IT1Rtvbr/bPc=\""
+          "Value": "\"wbQEK78D+a944ywrV/y4BjeJv67klLbKSvloe+xahII=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 23:59:05 GMT"
+          "Value": "Mon, 28 Apr 2025 00:36:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8971,7 +9391,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Rd+ZfpzuV+/JApOd5udmA3XnC49Y7U9IT1Rtvbr/bPc="
+          "Value": "sha256-wbQEK78D+a944ywrV/y4BjeJv67klLbKSvloe+xahII="
         }
       ]
     },
@@ -9123,7 +9543,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "49844"
+          "Value": "54340"
         },
         {
           "Name": "Content-Type",
@@ -9131,11 +9551,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vO2zqGLXQG6YpPRquV5tbdJ9Ws+e0GBHcaNRNlMbXf8=\""
+          "Value": "\"xTkRqQ7ejfQXSw6Ax2pr1NkYI6qqXY9v09xjftig5uU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 23:59:39 GMT"
+          "Value": "Mon, 28 Apr 2025 00:39:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9145,18 +9565,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vO2zqGLXQG6YpPRquV5tbdJ9Ws+e0GBHcaNRNlMbXf8="
+          "Value": "sha256-xTkRqQ7ejfQXSw6Ax2pr1NkYI6qqXY9v09xjftig5uU="
         }
       ]
     },
     {
       "Route": "_framework/BlazorE-commerce.pdb",
-      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\4htuqorfgz-0x2yjzz5el.gz",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\4htuqorfgz-1psis3h1sr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,000024138847"
+          "Quality": "0,000021877530"
         }
       ],
       "ResponseHeaders": [
@@ -9166,15 +9586,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "41426"
+          "Value": "45708"
         },
         {
           "Name": "ETag",
-          "Value": "\"k0jSpQIEwNZCWTejVsbqLsyIKIqeot5E36Hjcz20iVM=\""
+          "Value": "\"x7/ylYi825TbLe13XMR8OXXFtvJ+EMEADMFVntBFgNg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 23:59:00 GMT"
+          "Value": "Mon, 28 Apr 2025 00:36:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9194,19 +9614,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"vO2zqGLXQG6YpPRquV5tbdJ9Ws+e0GBHcaNRNlMbXf8=\""
+          "Value": "W/\"xTkRqQ7ejfQXSw6Ax2pr1NkYI6qqXY9v09xjftig5uU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vO2zqGLXQG6YpPRquV5tbdJ9Ws+e0GBHcaNRNlMbXf8="
+          "Value": "sha256-xTkRqQ7ejfQXSw6Ax2pr1NkYI6qqXY9v09xjftig5uU="
         }
       ]
     },
     {
       "Route": "_framework/BlazorE-commerce.pdb.gz",
-      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\4htuqorfgz-0x2yjzz5el.gz",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\4htuqorfgz-1psis3h1sr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9215,7 +9635,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "41426"
+          "Value": "45708"
         },
         {
           "Name": "Content-Type",
@@ -9223,11 +9643,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"k0jSpQIEwNZCWTejVsbqLsyIKIqeot5E36Hjcz20iVM=\""
+          "Value": "\"x7/ylYi825TbLe13XMR8OXXFtvJ+EMEADMFVntBFgNg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 23:59:00 GMT"
+          "Value": "Mon, 28 Apr 2025 00:36:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9245,7 +9665,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-k0jSpQIEwNZCWTejVsbqLsyIKIqeot5E36Hjcz20iVM="
+          "Value": "sha256-x7/ylYi825TbLe13XMR8OXXFtvJ+EMEADMFVntBFgNg="
         }
       ]
     },
@@ -9260,7 +9680,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "77077"
+          "Value": "81173"
         },
         {
           "Name": "Content-Type",
@@ -9268,11 +9688,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"n7ifhlO22tWBlAQMzR84Ibn9TbVBqyUJwPVAr1/Vbkc=\""
+          "Value": "\"m5ykuGbWZxzmw/q53DAP3m+UpwAjKcqmVNaKhgc1ZPE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 23:59:39 GMT"
+          "Value": "Mon, 28 Apr 2025 00:39:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9282,18 +9702,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-n7ifhlO22tWBlAQMzR84Ibn9TbVBqyUJwPVAr1/Vbkc="
+          "Value": "sha256-m5ykuGbWZxzmw/q53DAP3m+UpwAjKcqmVNaKhgc1ZPE="
         }
       ]
     },
     {
       "Route": "_framework/BlazorE-commerce.wasm",
-      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\rfxkszq592-d1jwfwb2aq.gz",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\rfxkszq592-9zvy17rfqa.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,000052399916"
+          "Quality": "0,000051077740"
         }
       ],
       "ResponseHeaders": [
@@ -9303,15 +9723,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19083"
+          "Value": "19577"
         },
         {
           "Name": "ETag",
-          "Value": "\"pVB2qwSeioasBg+a9JHmu4MTeOxZOaVy1ZjkixRh3pw=\""
+          "Value": "\"6K8yClGdEAdjKCtRMPcGthPJQnX5m8ZIWMjyB1PYCos=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 23:59:01 GMT"
+          "Value": "Mon, 28 Apr 2025 00:36:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9331,19 +9751,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"n7ifhlO22tWBlAQMzR84Ibn9TbVBqyUJwPVAr1/Vbkc=\""
+          "Value": "W/\"m5ykuGbWZxzmw/q53DAP3m+UpwAjKcqmVNaKhgc1ZPE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-n7ifhlO22tWBlAQMzR84Ibn9TbVBqyUJwPVAr1/Vbkc="
+          "Value": "sha256-m5ykuGbWZxzmw/q53DAP3m+UpwAjKcqmVNaKhgc1ZPE="
         }
       ]
     },
     {
       "Route": "_framework/BlazorE-commerce.wasm.gz",
-      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\rfxkszq592-d1jwfwb2aq.gz",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\obj\\Debug\\net9.0\\compressed\\rfxkszq592-9zvy17rfqa.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9352,7 +9772,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19083"
+          "Value": "19577"
         },
         {
           "Name": "Content-Type",
@@ -9360,11 +9780,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pVB2qwSeioasBg+a9JHmu4MTeOxZOaVy1ZjkixRh3pw=\""
+          "Value": "\"6K8yClGdEAdjKCtRMPcGthPJQnX5m8ZIWMjyB1PYCos=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 23:59:01 GMT"
+          "Value": "Mon, 28 Apr 2025 00:36:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9382,7 +9802,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pVB2qwSeioasBg+a9JHmu4MTeOxZOaVy1ZjkixRh3pw="
+          "Value": "sha256-6K8yClGdEAdjKCtRMPcGthPJQnX5m8ZIWMjyB1PYCos="
         }
       ]
     },
@@ -37841,6 +38261,1646 @@
         {
           "Name": "integrity",
           "Value": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/calçanike1.jpeg",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\calçanike1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iPl7CoiApuAxO5hYZb4ZBupn9hP2w2GWHzpLmRdOv8A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Apr 2024 13:36:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iPl7CoiApuAxO5hYZb4ZBupn9hP2w2GWHzpLmRdOv8A="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/calçanike1.o89772i0nm.jpeg",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\calçanike1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iPl7CoiApuAxO5hYZb4ZBupn9hP2w2GWHzpLmRdOv8A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Apr 2024 13:36:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o89772i0nm"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/calçanike1.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iPl7CoiApuAxO5hYZb4ZBupn9hP2w2GWHzpLmRdOv8A="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/calçanike2.4u2pncvmmt.jpeg",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\calçanike2.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4612"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZI7KEg//M2+TKZxG4CvFJBQkIXQq6KeAiKYcASKf+Wk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Apr 2024 13:36:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4u2pncvmmt"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/calçanike2.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZI7KEg//M2+TKZxG4CvFJBQkIXQq6KeAiKYcASKf+Wk="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/calçanike2.jpeg",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\calçanike2.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4612"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZI7KEg//M2+TKZxG4CvFJBQkIXQq6KeAiKYcASKf+Wk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Apr 2024 13:36:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZI7KEg//M2+TKZxG4CvFJBQkIXQq6KeAiKYcASKf+Wk="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/calçanike3.jpeg",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\calçanike3.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19371"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hor8EaUHtqiAXqFwEfUlTM3pTQPL2r9RgqoT30mCK1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Apr 2024 13:38:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hor8EaUHtqiAXqFwEfUlTM3pTQPL2r9RgqoT30mCK1s="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/calçanike3.uha7hp9wtt.jpeg",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\calçanike3.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19371"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hor8EaUHtqiAXqFwEfUlTM3pTQPL2r9RgqoT30mCK1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Apr 2024 13:38:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uha7hp9wtt"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/calçanike3.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hor8EaUHtqiAXqFwEfUlTM3pTQPL2r9RgqoT30mCK1s="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/calçanike4.6ferjnmhdx.jpeg",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\calçanike4.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3934"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pi9CSgIovkfN+RrCzZUs4q+7H3SJW/a4D3ovTGvwLVA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Apr 2024 13:39:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6ferjnmhdx"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/calçanike4.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pi9CSgIovkfN+RrCzZUs4q+7H3SJW/a4D3ovTGvwLVA="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/calçanike4.jpeg",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\calçanike4.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3934"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pi9CSgIovkfN+RrCzZUs4q+7H3SJW/a4D3ovTGvwLVA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Apr 2024 13:39:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pi9CSgIovkfN+RrCzZUs4q+7H3SJW/a4D3ovTGvwLVA="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/Camisa_feminina1.0k7h2j2kce.jpeg",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\Camisa_feminina1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5135"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gM4I7uN+52ogPjeQlHKpEF53T1oCVddJMRJ+HTZaajs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Apr 2024 13:34:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0k7h2j2kce"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/Camisa_feminina1.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gM4I7uN+52ogPjeQlHKpEF53T1oCVddJMRJ+HTZaajs="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/Camisa_feminina1.jpeg",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\Camisa_feminina1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5135"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gM4I7uN+52ogPjeQlHKpEF53T1oCVddJMRJ+HTZaajs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Apr 2024 13:34:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gM4I7uN+52ogPjeQlHKpEF53T1oCVddJMRJ+HTZaajs="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/camisa_feminina2.jpeg",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\camisa_feminina2.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6166"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YR7GEDLT+W4FrE3uurscCPxHXgEn+kL7sVR5S/5NCiY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Apr 2024 13:35:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YR7GEDLT+W4FrE3uurscCPxHXgEn+kL7sVR5S/5NCiY="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/camisa_feminina2.xc1yftape4.jpeg",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\camisa_feminina2.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6166"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YR7GEDLT+W4FrE3uurscCPxHXgEn+kL7sVR5S/5NCiY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Apr 2024 13:35:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xc1yftape4"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/camisa_feminina2.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YR7GEDLT+W4FrE3uurscCPxHXgEn+kL7sVR5S/5NCiY="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/camisa1.g6fiv8sm2u.jpeg",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\camisa1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4570"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qAMKgdF24vjF6JGKfgA89NvcNCj6pdditKIbGgv1gVI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Apr 2024 13:33:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g6fiv8sm2u"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/camisa1.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qAMKgdF24vjF6JGKfgA89NvcNCj6pdditKIbGgv1gVI="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/camisa1.jpeg",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\camisa1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4570"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qAMKgdF24vjF6JGKfgA89NvcNCj6pdditKIbGgv1gVI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Apr 2024 13:33:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qAMKgdF24vjF6JGKfgA89NvcNCj6pdditKIbGgv1gVI="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/camisa2.f9b5xkq4pc.jpeg",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\camisa2.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q/mvn1u9uYtRIYmKgdKLNf7GnExDBWB+6FXjbalnOkc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Apr 2024 13:33:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f9b5xkq4pc"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/camisa2.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q/mvn1u9uYtRIYmKgdKLNf7GnExDBWB+6FXjbalnOkc="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/camisa2.jpeg",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\camisa2.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q/mvn1u9uYtRIYmKgdKLNf7GnExDBWB+6FXjbalnOkc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Apr 2024 13:33:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q/mvn1u9uYtRIYmKgdKLNf7GnExDBWB+6FXjbalnOkc="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/camisa3.jpg",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\camisa3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4372"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VWFoUB+haq2orSF3jNRn9KY0RLf5ybHq+591FeZYZF4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Oct 2024 01:22:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VWFoUB+haq2orSF3jNRn9KY0RLf5ybHq+591FeZYZF4="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/camisa3.v36zpr9c4i.jpg",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\camisa3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4372"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VWFoUB+haq2orSF3jNRn9KY0RLf5ybHq+591FeZYZF4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Oct 2024 01:22:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v36zpr9c4i"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/camisa3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VWFoUB+haq2orSF3jNRn9KY0RLf5ybHq+591FeZYZF4="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/CARRINHO.jpeg",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\CARRINHO.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WoYdzHXh6t2PKMRe0dULTGkkuaGDeoU9yJqGoAU2Xw0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Apr 2024 14:20:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WoYdzHXh6t2PKMRe0dULTGkkuaGDeoU9yJqGoAU2Xw0="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/CARRINHO.qb0g8fz50d.jpeg",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\CARRINHO.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WoYdzHXh6t2PKMRe0dULTGkkuaGDeoU9yJqGoAU2Xw0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Apr 2024 14:20:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qb0g8fz50d"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/CARRINHO.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WoYdzHXh6t2PKMRe0dULTGkkuaGDeoU9yJqGoAU2Xw0="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/cart.flmuj7x3ar.png",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\cart.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1046"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HfPGvUqKwRrh7gVfDS0tuzP3PBS7AYcz/bKafRiqVQI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:29:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "flmuj7x3ar"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/cart.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HfPGvUqKwRrh7gVfDS0tuzP3PBS7AYcz/bKafRiqVQI="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/cart.png",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\cart.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1046"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HfPGvUqKwRrh7gVfDS0tuzP3PBS7AYcz/bKafRiqVQI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 14:29:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HfPGvUqKwRrh7gVfDS0tuzP3PBS7AYcz/bKafRiqVQI="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/conjunstosnike3.jpeg",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\conjunstosnike3.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3574"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C+XQeQkQNZv2zAJoQacL/VrBfLXracycyOhgiITBmo8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Apr 2024 13:40:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C+XQeQkQNZv2zAJoQacL/VrBfLXracycyOhgiITBmo8="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/conjunstosnike3.l0apwjxrhz.jpeg",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\conjunstosnike3.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3574"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C+XQeQkQNZv2zAJoQacL/VrBfLXracycyOhgiITBmo8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Apr 2024 13:40:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l0apwjxrhz"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/conjunstosnike3.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C+XQeQkQNZv2zAJoQacL/VrBfLXracycyOhgiITBmo8="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/conjuntosnike1.1iagrmjtwr.jpeg",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\conjuntosnike1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5101"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KRyxT1YKFgUtCh/GLa59cGqvYqwLEyOwQ2a8C7L0/6Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Apr 2024 13:40:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1iagrmjtwr"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/conjuntosnike1.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KRyxT1YKFgUtCh/GLa59cGqvYqwLEyOwQ2a8C7L0/6Y="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/conjuntosnike1.jpeg",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\conjuntosnike1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5101"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KRyxT1YKFgUtCh/GLa59cGqvYqwLEyOwQ2a8C7L0/6Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Apr 2024 13:40:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KRyxT1YKFgUtCh/GLa59cGqvYqwLEyOwQ2a8C7L0/6Y="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/conjuntosnike2.i3hfijj0eq.jpeg",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\conjuntosnike2.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sk2Zt58t9I7U16o0qDW3j0ENXzA7NDXMpOeNLbl9h0o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Apr 2024 13:40:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i3hfijj0eq"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/conjuntosnike2.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sk2Zt58t9I7U16o0qDW3j0ENXzA7NDXMpOeNLbl9h0o="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/conjuntosnike2.jpeg",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\conjuntosnike2.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sk2Zt58t9I7U16o0qDW3j0ENXzA7NDXMpOeNLbl9h0o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Apr 2024 13:40:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sk2Zt58t9I7U16o0qDW3j0ENXzA7NDXMpOeNLbl9h0o="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/conjuntosnike4.dmoiiewp83.jpeg",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\conjuntosnike4.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4457"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2yh2xIbBKbyqkGRUpML9LZYQFBZsWS9YnqdjcQpO2dk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Apr 2024 13:41:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dmoiiewp83"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/conjuntosnike4.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2yh2xIbBKbyqkGRUpML9LZYQFBZsWS9YnqdjcQpO2dk="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/conjuntosnike4.jpeg",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\conjuntosnike4.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4457"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2yh2xIbBKbyqkGRUpML9LZYQFBZsWS9YnqdjcQpO2dk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Apr 2024 13:41:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2yh2xIbBKbyqkGRUpML9LZYQFBZsWS9YnqdjcQpO2dk="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/imagemdefundo.jpeg",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\imagemdefundo.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2763"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W8PnIu12xhNvfnhFaLu9GkkxEsds/az+Ju/RQpFC8co=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Apr 2024 14:03:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W8PnIu12xhNvfnhFaLu9GkkxEsds/az+Ju/RQpFC8co="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/imagemdefundo.juhsacgevz.jpeg",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\imagemdefundo.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2763"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W8PnIu12xhNvfnhFaLu9GkkxEsds/az+Ju/RQpFC8co=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Apr 2024 14:03:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "juhsacgevz"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/imagemdefundo.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W8PnIu12xhNvfnhFaLu9GkkxEsds/az+Ju/RQpFC8co="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/logo.auyvyijh05.png",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3uPdTxpJ33Tl3mHrhJ9OIavu7NcS0TmwDyKycGS9l3o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Oct 2024 11:59:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "auyvyijh05"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3uPdTxpJ33Tl3mHrhJ9OIavu7NcS0TmwDyKycGS9l3o="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/logo.png",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3uPdTxpJ33Tl3mHrhJ9OIavu7NcS0TmwDyKycGS9l3o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Oct 2024 11:59:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3uPdTxpJ33Tl3mHrhJ9OIavu7NcS0TmwDyKycGS9l3o="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/passarpagina.pftoens41q.png",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\passarpagina.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1087"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+worP2RjCYq1NBcSK9LOC2Az31J+jgfTuvkJNkxYrGA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Apr 2024 15:11:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pftoens41q"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/passarpagina.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+worP2RjCYq1NBcSK9LOC2Az31J+jgfTuvkJNkxYrGA="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/passarpagina.png",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\passarpagina.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1087"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+worP2RjCYq1NBcSK9LOC2Az31J+jgfTuvkJNkxYrGA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Apr 2024 15:11:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+worP2RjCYq1NBcSK9LOC2Az31J+jgfTuvkJNkxYrGA="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/passarpagina2.j6s7y5p7m6.png",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\passarpagina2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1094"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lY+zBf8gE/zH6hB4J3vxCoouMxYxoPS6+4InSHxQuLA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Apr 2024 15:45:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j6s7y5p7m6"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/passarpagina2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lY+zBf8gE/zH6hB4J3vxCoouMxYxoPS6+4InSHxQuLA="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/passarpagina2.png",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\passarpagina2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1094"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lY+zBf8gE/zH6hB4J3vxCoouMxYxoPS6+4InSHxQuLA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Apr 2024 15:45:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lY+zBf8gE/zH6hB4J3vxCoouMxYxoPS6+4InSHxQuLA="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/passarpagina3.gmk9c4w4dj.png",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\passarpagina3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1094"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qOwYNvEr2KBo3/o0Yn3HcZlkHh3ubdfwyyQZKUWvGIM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Apr 2024 15:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gmk9c4w4dj"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/passarpagina3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qOwYNvEr2KBo3/o0Yn3HcZlkHh3ubdfwyyQZKUWvGIM="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/passarpagina3.png",
+      "AssetFile": "C:\\Users\\VINIR\\Downloads\\E-commerce_Blazor\\BlazorE-commerce\\wwwroot\\imagens\\passarpagina3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1094"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qOwYNvEr2KBo3/o0Yn3HcZlkHh3ubdfwyyQZKUWvGIM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Apr 2024 15:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qOwYNvEr2KBo3/o0Yn3HcZlkHh3ubdfwyyQZKUWvGIM="
         }
       ]
     },
