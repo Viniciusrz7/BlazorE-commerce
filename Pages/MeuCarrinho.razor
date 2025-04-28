@@ -1,6 +1,6 @@
 ﻿@page "/Carrinho"
 
-<PageTitle>Carrinho de Compras</PageTitle>
+@using BlazorE_commerce.Componentes
 
 <div class="container mx-auto p-4">
     <h1 class="text-3xl font-bold mb-6">Seu Carrinho</h1>
@@ -43,8 +43,8 @@
         </div>
     </div>
 </div>
-<BlazorE_commerce.Componentes.EnderecodeEntrega />
-<BlazorE_commerce.Componentes.Voltarpaginainicial/>
+<EnderecodeEntrega />
+<Voltarpaginainicial />
 
 @code {
     public class ItemCarrinho
@@ -55,10 +55,10 @@
     }
 
     private List<ItemCarrinho> ItensCarrinho = new List<ItemCarrinho>
-    {
-    new ItemCarrinho { Nome = "Camiseta Exemplo", Preco = 49.90m, Quantidade = 1 },
-    new ItemCarrinho { Nome = "Calça Exemplo", Preco = 89.90m, Quantidade = 1 }
-    };
+{
+new ItemCarrinho { Nome = "Camiseta Exemplo", Preco = 49.90m, Quantidade = 1 },
+new ItemCarrinho { Nome = "Calça Exemplo", Preco = 89.90m, Quantidade = 1 }
+};
 
     private decimal Total => ItensCarrinho.Sum(item => item.Preco * item.Quantidade);
 
